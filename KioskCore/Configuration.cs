@@ -109,5 +109,14 @@ namespace KioskCore
                 return true;
 
         }
+
+        private void Configuration_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!ValidityControl())
+            {
+                e.Cancel = true;
+                MessageBox.Show("Please fill in the requested information.");
+            }
+        }
     }
 }
