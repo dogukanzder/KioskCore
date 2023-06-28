@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KioskCore", "KioskCore\KioskCore.csproj", "{8A64621E-E6D5-4111-B152-8FA9C0DBD4D2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KioskCoreSetup", "KioskCoreSetup\KioskCoreSetup.vdproj", "{357BAB39-AB72-4C23-86E4-CEEA0FB1F652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A64621E-E6D5-4111-B152-8FA9C0DBD4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A64621E-E6D5-4111-B152-8FA9C0DBD4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A64621E-E6D5-4111-B152-8FA9C0DBD4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A64621E-E6D5-4111-B152-8FA9C0DBD4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357BAB39-AB72-4C23-86E4-CEEA0FB1F652}.Debug|Any CPU.ActiveCfg = Debug
+		{357BAB39-AB72-4C23-86E4-CEEA0FB1F652}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34358345-5FB6-439D-821B-B155FBEA2CF6}
+	EndGlobalSection
+EndGlobal
