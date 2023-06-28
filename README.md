@@ -26,7 +26,7 @@ Finally, the application would have a timer that would close the kiosk at the sp
 
 Overall, this application would be a useful tool for creating a kiosk-style environment on a Windows computer. It would be easy to use and would provide a secure environment for users.
 
-![]([https://pandao.github.io/editor.md/examples/images/4.jpg](https://github.com/dogukanzder/KioskCore/blob/master/Configuration.png))
+![]([https://github.com/dogukanzder/KioskCore/blob/master/Configuration.png])
 Configuration Window
 
 ## Download
