@@ -30,6 +30,6 @@ Overall, this application would be a useful tool for creating a kiosk-style envi
 Configuration Window
 
 ## Download
-You can choose to [download](http://localhost/ "link title") the program as a project, which gives you the power to customize it to your liking. Or, you can [download](http://localhost/ "link title") the installation file, which is a more straightforward way to get the program up and running.
+You can choose to [download](https://github.com/dogukanzder/KioskCore/archive/refs/heads/master.zip) the program as a project, which gives you the power to customize it to your liking. Or, you can [download](https://github.com/dogukanzder/KioskCore/raw/master/KioskCoreSetup/KioskCore.msi) the installation file, which is a more straightforward way to get the program up and running.
 
 ### Writer: Doğukan Özder
